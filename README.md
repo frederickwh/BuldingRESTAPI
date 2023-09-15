@@ -4,15 +4,11 @@
 Description
 <br />
 
+<h2>Exposure:</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b>
+- <b>Coding/Web Development</b>
+- <b>Gateway to WebApp Pentesting</b>
+- <b>Building Strong Intuition of APIs</b>
 
 <h2>Program walk-through:</h2>
 
